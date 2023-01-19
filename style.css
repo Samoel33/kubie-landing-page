@@ -33,8 +33,8 @@ body {
 }
 
 .main-container {
-    background-image: url('/depositphotos_23505717-stock-photo-color-ball.jpg');
-    background: url('/istockphoto-480447231-612x612.jpg');
+    background-image: url('depositphotos_23505717-stock-photo-color-ball.jpg');
+    background: url('istockphoto-480447231-612x612.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 80%;
