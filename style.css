@@ -292,6 +292,7 @@ body {
     }
     .content :is(p){
         max-width: 50ch;
+        font-size:1.6rem;
     }
     .content-opacity{
         opacity:0.05;
