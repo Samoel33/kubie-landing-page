@@ -16,6 +16,7 @@ html {
     --HEADINGSIZE:4.8rem;
     --NAVLINKSIZE:2rem;
     --BODYTEXTSIZE:3.6rem;
+     --BODYTEXTSIZEMED:2.6rem;
 
     --BGCOLORBODY: #000;
     --BGCOLORLEFT: hsla(0, 75%, 83%, 0.6);
@@ -292,7 +293,7 @@ body {
     }
     .content :is(p){
         max-width: 50ch;
-        font-size:1.6rem;
+        font-size:var(--BODYTEXTSIZEMED);
     }
     .content-opacity{
         opacity:0.05;
